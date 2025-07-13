@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tacos_al_pastor",
+    "nombre": "Tacos al pastor",
+    "ingredientes": [
+      "500g carne de cerdo en filetes",
+      "100g achiote",
+      "2 chiles guajillo",
+      "1/2 taza de jugo de piña",
+      "Cilantro, cebolla y piña picada para servir"
+    ],
+    "instrucciones": [
+      "Licuar achiote, chiles y jugo de piña.",
+      "Marinar la carne al menos 2 horas.",
+      "Cocinar en sartén o plancha.",
+      "Servir en tortillas con piña, cebolla y cilantro."
+    ],
+    "categoria": "Antojito",
+    "estado": "CDMX",
+    "tiempo_preparacion": 60
+  },
+  {
+    "id": "pozole_rojo",
+    "nombre": "Pozole rojo",
+    "ingredientes": [
+      "500g maíz pozolero",
+      "500g carne de cerdo",
+      "3 chiles guajillo",
+      "2 dientes de ajo",
+      "Sal al gusto"
+    ],
+    "instrucciones": [
+      "Cocer el maíz hasta que reviente.",
+      "Hervir la carne con ajo y sal.",
+      "Licuar los chiles con ajo y agregar al caldo.",
+      "Servir con rábanos, lechuga y limón."
+    ],
+    "categoria": "Platillo tradicional",
+    "estado": "Guerrero",
+    "tiempo_preparacion": 120
+  },
+  {
+    "id": "chiles_en_nogada",
+    "nombre": "Chiles en nogada",
+    "ingredientes": [
+      "6 chiles poblanos",
+      "500g carne molida",
+      "Frutas picadas (pera, manzana, plátano macho)",
+      "Nuez, leche, queso crema (para la nogada)",
+      "Granada y perejil para decorar"
+    ],
+    "instrucciones": [
+      "Asar y pelar los chiles.",
+      "Preparar el relleno con carne y frutas.",
+      "Preparar la nogada licuando nuez, leche y queso crema.",
+      "Rellenar los chiles, servir con nogada, granada y perejil."
+    ],
+    "categoria": "Platillo festivo",
+    "estado": "Puebla",
+    "tiempo_preparacion": 90
+  }
+]
